@@ -1,0 +1,7 @@
+C:\Users\Marti\source\repos\Zadacha_1_BiggestNumber\Zadacha_1_BiggestNumber\obj\Debug\Zadacha_1_BiggestNumber.csprojAssemblyReference.cache
+C:\Users\Marti\source\repos\Zadacha_1_BiggestNumber\Zadacha_1_BiggestNumber\obj\Debug\Zadacha_1_BiggestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Marti\source\repos\Zadacha_1_BiggestNumber\Zadacha_1_BiggestNumber\bin\Debug\Zadacha_1_BiggestNumber.exe.config
+C:\Users\Marti\source\repos\Zadacha_1_BiggestNumber\Zadacha_1_BiggestNumber\bin\Debug\Zadacha_1_BiggestNumber.exe
+C:\Users\Marti\source\repos\Zadacha_1_BiggestNumber\Zadacha_1_BiggestNumber\bin\Debug\Zadacha_1_BiggestNumber.pdb
+C:\Users\Marti\source\repos\Zadacha_1_BiggestNumber\Zadacha_1_BiggestNumber\obj\Debug\Zadacha_1_BiggestNumber.exe
+C:\Users\Marti\source\repos\Zadacha_1_BiggestNumber\Zadacha_1_BiggestNumber\obj\Debug\Zadacha_1_BiggestNumber.pdb
